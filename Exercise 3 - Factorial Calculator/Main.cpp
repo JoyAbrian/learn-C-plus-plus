@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int bilangan;
-    int hasil = 1;
+    long long hasil = 1;
 
     cout << "Masukkan bilangan : ";
     cin >> bilangan;
